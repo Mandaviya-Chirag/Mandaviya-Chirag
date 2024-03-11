@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirag Mandaviya</h1>
 <h3 align="center">i am from india.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandaviya-chirag&label=Profile%20views&color=0e75b6&style=flat" alt="mandaviya-chirag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandaviya-chirag" alt="mandaviya-chirag" /></a> </p>
 
 - 🔭 I’m currently working on [java](https://github.com/Mandaviya-Chirag/Electricity-Billing-System.git)
 
