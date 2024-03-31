@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chirag Mandaviya</h1>
-<h3 align="center">i am from india.</h3>
 
 
 
