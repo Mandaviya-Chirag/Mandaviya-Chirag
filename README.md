@@ -2,9 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [java](https://github.com/Mandaviya-Chirag/Electricity-Billing-System.git)
-
-- 🌱 I’m currently learning **php, java, linux, c#, seo.**
+- 🔭 I’m currently working on [php](https://github.com/Mandaviya-Chirag/Electricity-Billing-System.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mandaviya-Chirag](https://github.com/Mandaviya-Chirag)
 
